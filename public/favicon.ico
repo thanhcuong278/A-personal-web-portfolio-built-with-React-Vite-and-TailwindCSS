@@ -1,0 +1,3 @@
+/* Place a favicon.ico binary file in public/ (cannot embed binary here).
+   -> If you don't have one, create a simple 64x64 favicon or use an online generator.
+*/
