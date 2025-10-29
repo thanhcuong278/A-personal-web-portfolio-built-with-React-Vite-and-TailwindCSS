@@ -1,8 +1,8 @@
 # My Portfolio - React + TypeScript + Vite
 
-Phiên bản React hiện đại của trang cá nhân, tái hiện toàn bộ chức năng từ site gốc:
+Phiên bản React hiện đại của trang cá nhân:
 - Trang chủ: giới thiệu, kỹ năng, liên hệ
-- Dự án: Pokémon API, Weather (Open-Meteo), Exchange Rate (open.er-api.com)
+- Dự án demo: Pokémon API, Weather (Open-Meteo), Exchange Rate (open.er-api.com)
 
 ## Yêu cầu
 - Node 18+ / npm
