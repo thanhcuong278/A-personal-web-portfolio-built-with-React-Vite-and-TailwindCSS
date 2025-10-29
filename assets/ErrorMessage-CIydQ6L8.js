@@ -1,0 +1,1 @@
+import{j as e}from"./index-DaBjyjb2.js";function s({children:r,className:o=""}){return e.jsx("div",{className:`p-4 rounded-lg shadow-md border border-gray-200 dark:border-gray-700 transition-colors duration-300 ${o}`,children:r})}function a({message:r}){return e.jsx("div",{className:"text-red-600 font-medium text-center",children:r})}export{s as C,a as E};
